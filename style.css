@@ -1,0 +1,40 @@
+.wrap{
+    margin: 0 auto;
+    width: 1024px;
+    border: 1px solid black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+.header{
+    margin-bottom: 20px;
+}
+
+.content{
+    margin-bottom: 20px;
+}
+
+.course{
+    display: flex;
+    justify-content: space-around;
+}
+
+.course-itme{
+    border: 1px solid #000;
+    width: 300px;
+}
+
+.course-itme h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.course-itme p{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.footer{
+    background-color: burlywood;
+}
+
